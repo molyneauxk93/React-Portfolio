@@ -64,14 +64,15 @@ a {
 
 p {
     font-size: 16px;
+    color: white;
 }
 
 /*Banner image graphic CSS*/
 .image-graphic {
-    height: 600px;
+    height: 100px;
     width: 100%;
     margin-bottom: 0px;
-    background-image: url("../images/banner-graphic.jpg");
+    background-image: url("../public/images/banner-graphic.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -86,9 +87,14 @@ p {
 
 }
 
+.about-paragraph {
+    text-align: center;
+    font-size: 26px;
+}
+
 .about-portfolio h3 {
     font-size: 36px;
-    padding: 15px;
+    padding: 25px;
 }
 
 .about-portfolio p {
@@ -100,9 +106,9 @@ p {
 
 .about-me {
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     padding-top: 30px;
-    min-width: 40%;
+    min-width: 100%;
 }
 
 .about-me h2 {
@@ -179,7 +185,7 @@ p {
 .projects {
     display: flex;
     justify-content: center;
-    padding-top: 30px;
+    padding-top: 40px;
     flex-wrap: wrap;
 }
 
