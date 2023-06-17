@@ -5,7 +5,7 @@
 Created a personal portfolio using React, HTML and CSS to highlight myself as well as some projects that I have worked on so far.
 This webpage consists of an About Me section, Portfolio highlights section, contact me section, and Resume section. There are also links to my Linkedin, Github, and Instagram in the footer.
 
-Published website:   
+Published website:   https://molyneauxk93.github.io/React-Portfolio/
 
 ## Installation
 
