@@ -19,25 +19,25 @@ export default function Portfolio() {
         },
         {
             title: 'Weather Dashboard',
-            link: 'https://github.com/molyneauxk93/KevinMolyneaux-Weather-Dashboard',
+            link: 'https://molyneauxk93.github.io/KevinMolyneaux-Weather-Dashboard-Challenge/',
             imagesrc: './images/weather-icon.jpg',
             description: ' Keep up with current weather!'
         },
         {
             title: 'Password Generator',
-            link: 'https://github.com/molyneauxk93/KevinMolyneaux-Random-Password-Generator',
+            link: 'https://molyneauxk93.github.io/KevinMolyneaux-Random-Password-Generator/',
             imagesrc: './images/password-gen.png',
             description: 'Keep your accounts secure with my password generator!'
         },
         {
             title: 'Work Day Scheduler',
-            link: 'https://github.com/molyneauxk93/KevinMolyneaux-Work-Day-Scheduler',
+            link: 'https://molyneauxk93.github.io/KevinMolyneaux-Work-Day-Scheduler/',
             imagesrc: './images/workday.png',
             description: 'Stay organized with my work day scheduler!'
         },
         {
             title: 'Code Quiz',
-            link: 'https://github.com/molyneauxk93/KevinMolyneaux-Code-Quiz',
+            link: 'https://molyneauxk93.github.io/KevinMolyneaux-Module4-Code-Quiz/',
             imagesrc: './images/quiz.png',
             description: 'Test your coding knowledge with my code quiz app!'
         }
