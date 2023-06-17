@@ -8,37 +8,37 @@ export default function Portfolio() {
         {
             title: 'PawsPlus+',
             link: 'https://molyneauxk93.github.io/PawsPlus-/',
-            imagesrc: '../../images/PawsPlusLogo.jpg',
+            imagesrc: './images/PawsPlusLogo.jpg',
             description: 'PawsPlus+ Pet Finder! Find your new furry friend !'
         },
         {
             title: 'Break My Intake',
             link: 'https://evening-journey-80732.herokuapp.com/',
-            imagesrc: '../../images/donut-chart-1.png',
+            imagesrc: './images/donut-chart-1.png',
             description: 'Lets Break your Intake Together!'
         },
         {
             title: 'Weather Dashboard',
             link: 'https://github.com/molyneauxk93/KevinMolyneaux-Weather-Dashboard',
-            imagesrc: '../../images/weather-icon.jpg',
+            imagesrc: './images/weather-icon.jpg',
             description: ' Keep up with current weather!'
         },
         {
             title: 'Password Generator',
             link: 'https://github.com/molyneauxk93/KevinMolyneaux-Random-Password-Generator',
-            imagesrc: '../../images/password-gen.png',
+            imagesrc: './images/password-gen.png',
             description: 'Keep your accounts secure with my password generator!'
         },
         {
             title: 'Work Day Scheduler',
             link: 'https://github.com/molyneauxk93/KevinMolyneaux-Work-Day-Scheduler',
-            imagesrc: '../../images/workday.png',
+            imagesrc: './images/workday.png',
             description: 'Stay organized with my work day scheduler!'
         },
         {
             title: 'Code Quiz',
             link: 'https://github.com/molyneauxk93/KevinMolyneaux-Code-Quiz',
-            imagesrc: '../../images/quiz.png',
+            imagesrc: './images/quiz.png',
             description: 'Test your coding knowledge with my code quiz app!'
         }
 

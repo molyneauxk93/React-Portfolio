@@ -7,7 +7,7 @@ export default function Resume() {
         <div>
             <h2>Resume</h2>
 
-            <a className='resume-anchor' href='../../files/KJMolyneauxResume2020.docx' download='Kevin Molyneaux - Resume' >Download my Resume</a>
+            <a className='resume-anchor' href='./files/KJMolyneauxResume2020.docx' download='Kevin Molyneaux - Resume' >Download my Resume</a>
 
             <h3>Front-end Proficiencies:</h3>
 
