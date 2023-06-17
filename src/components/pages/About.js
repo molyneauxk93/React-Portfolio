@@ -7,7 +7,7 @@ export default function About() {
             <section>
                 <div className='card-header'>
                 <h2 id="about-me">About Me</h2>
-                    <img src="/images/croppedJoshHeadshot2.jpg" alt="About Me Graphic" />
+                    <img src="./images/croppedJoshHeadshot2.jpg" alt="About Me Graphic" />
                 </div>
 
                 <p className='about-paragraph'>
