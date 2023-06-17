@@ -19,7 +19,7 @@ export default function Portfolio() {
         },
         {
             title: 'Weather Dashboard',
-            link: 'https://molyneauxk93.github.io/KevinMolyneaux-Weather-Dashboard-Challenge/',
+            link: 'https://molyneauxk93.github.io/KevinMolyneaux-Weather-Dashboard/',
             imagesrc: './images/weather-icon.jpg',
             description: ' Keep up with current weather!'
         },
@@ -37,7 +37,7 @@ export default function Portfolio() {
         },
         {
             title: 'Code Quiz',
-            link: 'https://molyneauxk93.github.io/KevinMolyneaux-Module4-Code-Quiz/',
+            link: 'https://molyneauxk93.github.io/KevinMolyneaux-Code-Quiz/',
             imagesrc: './images/quiz.png',
             description: 'Test your coding knowledge with my code quiz app!'
         }
