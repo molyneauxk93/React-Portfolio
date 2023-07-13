@@ -24,10 +24,10 @@ export default function Portfolio() {
             description: ' Keep up with current weather!'
         },
         {
-            title: 'Password Generator',
-            link: 'https://molyneauxk93.github.io/KevinMolyneaux-Random-Password-Generator/',
-            imagesrc: './images/password-gen.png',
-            description: 'Keep your accounts secure with my password generator!'
+            title: 'CT NestQuest',
+            link: 'https://radiant-ridge-52062-42fcf9b129ea.herokuapp.com/',
+            imagesrc: './images/ctnestquest.jpg',
+            description: 'Rent with confidence and explore Connecticuts best!'
         },
         {
             title: 'Work Day Scheduler',
